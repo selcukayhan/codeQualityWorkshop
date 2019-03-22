@@ -1,0 +1,6 @@
+
+Zsquid:S2583"CChange this condition so that it does not always evaluate to "true"(ûïþº
+rsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ûïþº
+osquid:UnusedPrivateMethod"ERemove this unused private "incorrectAssignmentInIfCondition" method.(ñœÂµûÿÿÿÿ
+Psquid:S1854"9Remove this useless assignment to local variable "value".(ûïþº
+^$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ûïþº

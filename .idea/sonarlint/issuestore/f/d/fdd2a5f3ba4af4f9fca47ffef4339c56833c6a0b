@@ -1,0 +1,10 @@
+
+=squid:S1481"&Remove this unused "d" local variable.(½ÆŒþ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï“Ìþ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½¼áÜûÿÿÿÿ
+Esquid:S2200"/Only the sign of the result should be examined.(ÓÏ³:
+Qsquid:S2204":Use ".get()" to retrieve the value and compare it instead.(È¨žâ
+Lsquid:S1854"5Remove this useless assignment to local variable "d".(½ÆŒþ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡ªÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼‰žýÿÿÿÿ

@@ -1,0 +1,8 @@
+
+`squid:UnusedPrivateMethod"6Remove this unused private "emptySynchronized" method.(•ÑÜ—ýÿÿÿÿ
+Zsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰˜®Î
+Nsquid:S1135
+"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+]squid:S2142	"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

@@ -1,0 +1,6 @@
+
+msquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(›¦ÖÙ
+…squid:S2068"n'java.naming.security.credentials' detected in this expression, review this potentially hard-coded credential.(˜Ò ÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒêœ 
+osquid:S00116"WRename this field "SEC_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¦ÖÙ
